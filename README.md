@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MerlynMShelley
-- 👀 I’m interested in building the user interface for the digital dias that helps people to navigate seamlessly to get the job done!
-- 🌱 I’m currently brushing up skills on front end libraries and frameworks.
-- 💞️ I’m looking to collaborate on open source front end development projects.
+- 👀 I’m interested in building fantastic visualizations and dashboards for the given dataset !
+- 🌱 I’m currently brushing up skills on Exploratory data analysis, data scraping with Python and Tableau Public.
+- 💞️ I’m looking to collaborate on open source data science, business intelligence and data analytics projects.
 - 📫 To reach me drop a mail on merlynmshelley@gmail.com
 
 <!---
