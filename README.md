@@ -33,6 +33,8 @@ https://blog.qandle.com/2020/08/06/the-ultimate-guide-to-conducting-effective-on
 
 Amazon Author Central >>
 Amazon.com/author/merlynshelley
+https://www.amazon.co.jp/-/en/Merlyn-Shelley/e/B084ZQPTK9?ref_=dbs_p_ebk_r00_abau_000000
+
 
 Like to contribute strategic ideas on JTBD Framework, Business Process Improvement, Product market fit, Go-to-market scenario, usability research & testing, stakeholder engagement, project management, data analytics, customer journey map for retention & acquisition, and defining functional & non-functional requirements in rigorous business growth.
 - 📫 To reach me drop a mail on merlynmshelley@gmail.com
