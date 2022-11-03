@@ -1,8 +1,40 @@
 - 👋 Hi, I’m @MerlynMShelley
-- 🚀 I’m interested in building fantastic visualizations and dashboards for the given dataset !
-- 📀 I’m currently brushing up skills on Exploratory data analysis, data scraping with Python and creating dashboards with Tableau Public.
-- 💻 I'm practicing various data analytics and visualization functions on Python Pandas, NumPy, MatPlotLib, Seaborn with Jupyter Notebook.
-- 🔌 I’m looking to collaborate on open source data science, business intelligence and data analytics projects.
+- 🚀 Agile Product Owner with demonstrated experience in the design, test and development of easy-to-use digital learning products that cater the needs of software engineers with understanding, updating, and solving everyday problems.
+
+Right now, building Packt DataPro Newsletter - a micro-learning solution that assists Data & ML engineers to stay proficient across the industry.
+
+Published over 150 technical articles on several developers' platforms and 12 books on Amazon Kindle Digital Publishing (KDP). 
+
+Find below the links to all of my Publications >>  
+
+DZone
+https://dzone.com/users/4497573/merlyn-shelley.html
+
+Squadcast
+https://www.squadcast.com/blog-authors/merlyn-shelley
+
+Expersight
+https://expersight.com/author/merlyn
+
+DazeInfo 
+https://dazeinfo.com/author/merlynm/#
+
+GeeksforGeeks
+https://auth.geeksforgeeks.org/user/MerlynShelley/articles
+
+TechLeer
+https://www.techleer.com/users/Merlyn_Shelley/
+
+GeeksGyan
+https://www.geeksgyaan.com/author/merlyn
+
+Qandle
+https://blog.qandle.com/2020/08/06/the-ultimate-guide-to-conducting-effective-one-on-one-meetings/
+
+Amazon Author Central >>
+Amazon.com/author/merlynshelley
+
+Like to contribute strategic ideas on JTBD Framework, Business Process Improvement, Product market fit, Go-to-market scenario, usability research & testing, stakeholder engagement, project management, data analytics, customer journey map for retention & acquisition, and defining functional & non-functional requirements in rigorous business growth.
 - 📫 To reach me drop a mail on merlynmshelley@gmail.com
 
 <!---
