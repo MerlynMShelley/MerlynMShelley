@@ -1,5 +1,5 @@
 👋 Hi, I’m @MerlynMShelley
-🚀 Software Engineer - Front End Technologies & Agile Product Owner with demonstrated experience in the design, develop, test and publish easy-to-use digital learning products that cater the needs of software engineers with understanding, updating, and solving everyday problems.
+🚀 Agile Product Owner with demonstrated experience in the design, develop, test and publish easy-to-use digital learning products that cater the needs of software engineers with understanding, updating, and solving everyday problems.
 
 Right now, building Packt DataPro Newsletter - a micro-learning solution that assists Data & ML engineers to stay proficient across the industry.
 
