@@ -2,7 +2,7 @@
 
 A highly dedicated Front End Developer and Agile Product Owner with proven track record of developing compelling user interfaces that are easy-to-use and cater the needs of software engineers with understanding, updating, and solving everyday challenges.
 
-Right now, building Packt DataPro Newsletter(https://us11.campaign-archive.com/home/?u=693897ba2220b83ddb807103a&id=07395ea9cf)from scratch - a micro-learning solution that assists Data & ML engineers to stay proficient across the industry.
+Right now, building Packt DataPro Newsletter (https://us11.campaign-archive.com/home/?u=693897ba2220b83ddb807103a&id=07395ea9cf)from scratch - a micro-learning solution that assists Data & ML engineers to stay proficient across the industry.
 
 Published over 150 technical articles on several developers' platforms and 12 books on Amazon Kindle Digital Publishing (KDP). 
       
