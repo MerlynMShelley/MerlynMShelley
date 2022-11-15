@@ -1,6 +1,6 @@
 👋 Hi, I’m @MerlynMShelley
 
-A highly dedicated Front End Developer and Agile Product Owner with proven track record of developing compelling user interfaces that are easy-to-use and cater the needs of software engineers with understanding, updating, and solving everyday challenges.
+A highly dedicated technical communications specialist with proven track record of developing compelling user docs that are easy-to-use and cater the needs of software engineers with understanding, updating, and solving everyday challenges.
 
 Right now, building Packt DataPro Newsletter (https://us11.campaign-archive.com/home/?u=693897ba2220b83ddb807103a&id=07395ea9cf)from scratch - a micro-learning solution that assists Data & ML engineers to stay proficient across the industry.
 
@@ -37,8 +37,8 @@ Amazon.com/author/merlynshelley
 https://www.amazon.co.jp/-/en/Merlyn-Shelley/e/B084ZQPTK9?ref_=dbs_p_ebk_r00_abau_000000
 
 
-Like to contribute amazing strategic ideas on user experience and user interface development, JTBD Framework, Business Process Improvement, Product market fit, Go-to-market scenario, usability research & testing, stakeholder engagement, project management customer journey map for retention & acquisition, and defining functional & non-functional requirements in rigorous business growth.
-📫 To reach me drop a mail on merlynmshelley@gmail.com
+I like to contribute concrete ideas on developing knowledge docs that sounds human and helpful.
+
 
 <!---
 MerlynMShelley/MerlynMShelley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
