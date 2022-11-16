@@ -1,10 +1,12 @@
 👋 Hi, I’m @MerlynMShelley
 
-A highly dedicated technical communications specialist with proven track record of developing compelling user docs that are easy-to-use and cater the needs of software engineers with understanding, updating, and solving everyday challenges.
+A highly dedicated Technical Communications and Agile Product Marketing Specialist with proven track record of developing & distributing compelling digital content products that are easy-to-use and cater the needs of software engineers with understanding, updating, and solving everyday challenges.
 
-Right now, building Packt DataPro Newsletter (https://us11.campaign-archive.com/home/?u=693897ba2220b83ddb807103a&id=07395ea9cf)from scratch - a micro-learning solution that assists Data & ML engineers to stay proficient across the industry.
+Right now, building Packt DataPro Newsletter from scratch - a micro-learning solution that assists Data & ML engineers to stay proficient across the industry. Over 65K users engage with my weekly newsletter product each week.
 
-Published over 150 technical articles on several developers' platforms and 12 books on Amazon Kindle Digital Publishing (KDP). 
+Through website content, sales enablement blogs, SEO optimization of the website and product documentation, I have helped several SaaS B2B, B2C startups scale their growth with proper messaging and product positioning. As a market researcher, I perform competitive intelligence, analyze product market fit, and formulate go-to-market strategies.
+
+Over the course of my early freelance career, I have published over 150 technical articles on several developers' platforms, in addition to 12 Kindle Direct Publishing (KDP) ebooks on Digital Marketing.
       
 Find below the links to all of my Publications >>  
 
