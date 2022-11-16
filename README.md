@@ -39,7 +39,7 @@ Amazon.com/author/merlynshelley
 https://www.amazon.co.jp/-/en/Merlyn-Shelley/e/B084ZQPTK9?ref_=dbs_p_ebk_r00_abau_000000
 
 
-I like to contribute concrete ideas on developing knowledge docs that sounds human and helpful.
+As a product marketer, I am interested in contributing concrete ideas over achieving sustainable product growth.
 
 
 <!---
