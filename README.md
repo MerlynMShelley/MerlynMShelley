@@ -1,6 +1,6 @@
-👋 Hi, I’m @MerlynMShelley
+👋 Hi, I’m @MerlynMShelley ~ JavaScript Enthusiast!
 
-A highly dedicated Technical Communications and Agile Product Specialist with proven track record of developing & distributing compelling digital content products that are easy-to-use and cater the needs of software engineers with understanding, updating, and solving everyday challenges.
+A practicing software engineer with impeccable experience in the product development life cycle by creating engaging web products that are easy to use and fulfill the needs of tech practioners with understanding, updating, and solving everyday problems.
 
 Right now, building Packt DataPro Newsletter from scratch - a micro-learning solution that assists Data & ML engineers to stay proficient across the industry. Over 65K users engage with my weekly newsletter product each week.
 
@@ -38,9 +38,7 @@ Amazon Author Central >>
 Amazon.com/author/merlynshelley
 https://www.amazon.co.jp/-/en/Merlyn-Shelley/e/B084ZQPTK9?ref_=dbs_p_ebk_r00_abau_000000
 
-
-As a product owner, I am interested in contributing concrete ideas over achieving sustainable product growth.
-
+With my JavaScript expertise, I would love to solve complex web development problems with sophisticated JS functions! 
 
 <!---
 MerlynMShelley/MerlynMShelley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
