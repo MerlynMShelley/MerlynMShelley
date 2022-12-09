@@ -1,6 +1,6 @@
 👋 Hi, I’m @MerlynMShelley ~ JavaScript Enthusiast!
 
-A practicing software engineer with impeccable experience in the product development life cycle by creating engaging web products that are easy to use and fulfill the needs of tech practioners with understanding, updating, and solving everyday problems.
+A practicing software engineer with impeccable experience in the product development life cycle by creating engaging web applications that are easy to use and fulfill the needs of tech practioners with understanding, updating, and solving everyday problems.
 
 Right now, building Packt DataPro Newsletter from scratch - a micro-learning solution that assists Data & ML engineers to stay proficient across the industry. Over 65K users engage with my weekly newsletter product each week.
 
