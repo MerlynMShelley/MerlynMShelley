@@ -1,4 +1,4 @@
-👋 Hi, I’m @MerlynMShelley ~ DataScience & AI Enthusiast!
+👋 Hi, I’m @MerlynMShelley ~ JavaScript Enthusiast!
 
 Editor in Chief with impeccable experience in the product development life cycle by creating engaging digital content products that are easy to use and fulfil the needs of tech practioners with understanding, updating, and solving everyday problems.
 
@@ -38,7 +38,7 @@ Amazon Author Central >>
 Amazon.com/author/merlynshelley
 https://www.amazon.co.jp/-/en/Merlyn-Shelley/e/B084ZQPTK9?ref_=dbs_p_ebk_r00_abau_000000
 
-With my editorial expertise, I would love to solve complex content problems with sophisticated digital products! 
+With my UI expertise, I would love to solve complex web accessibility problems with sophisticated JS functions! 
 
 <!---
 MerlynMShelley/MerlynMShelley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
