@@ -1,6 +1,6 @@
 👋 Hi, I’m @MerlynMShelley ~ JavaScript Enthusiast!
 
-Editor in Chief with impeccable experience in the product development life cycle by creating engaging digital content products that are easy to use and fulfil the needs of tech practioners with understanding, updating, and solving everyday problems.
+Front End Software Engineer with impeccable experience in the product development life cycle by creating engaging digital products that are easy to use and fulfil the needs of tech practioners with understanding, updating, and solving everyday problems.
 
 Right now, building Packt DataPro Newsletter from scratch - a micro-learning solution that assists Data & ML engineers to stay proficient across the industry. Over 65K users engage with my weekly newsletter product each week.
 
