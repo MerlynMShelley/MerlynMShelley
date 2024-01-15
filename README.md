@@ -1,10 +1,12 @@
-👋 Hi, I’m @MerlynMShelley ~ Data & BI Enthusiast!
+👋 Hi, I’m @MerlynMShelley ~ UI Engineer!
 
-With over 6 years of contributing to the BI community through articles and data stories, I am focused on leveraging my expertise in data analysis, visualization, and management to derive key business insights. 
+I am a Front-End Engineer with over 9 years of experience in UI development and UX strategy, focused on creating engaging user interfaces and user-centric content. 
 
-My proficiency in SQL, Python, and BI tools like Tableau and Power BI positions me to effectively support data-driven decision-making. Committed to continuous learning and staying updated with the latest in data analytics and warehousing, I seek to apply these skills in a dynamic environment. 
+My expertise lies in leveraging modern web technologies to build seamless, interactive digital experiences. With a strong foundation in both technical development and content strategy, 
 
-My goal is to drive innovation and operational efficiency, using my passion for turning complex data into actionable intelligence to foster organizational growth and success.
+I am committed to delivering visually appealing and functionally robust front-end solutions that align with the latest industry trends. 
+
+In my work, I consistently strive to meet key business goals and organizational requirements, ensuring that each project not only meets but exceeds expectations in driving business success and user satisfaction.
 
 <!---
 MerlynMShelley/MerlynMShelley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
