@@ -11,10 +11,15 @@ In my work, I consistently strive to meet key business goals and organizational 
 🔍 *My Expertise:*
 
 **Front-End Development:** Proficient in HTML, CSS, JavaScript, and frameworks like React and Angular.<br>
+
 **Responsive Design:** Expert in crafting websites that adapt seamlessly across various devices.<br>
+
 **UI/UX Strategy:** Skilled in developing content strategies that enhance user experience and engagement.<br>
+
 **Cross-Browser Compatibility:** Adept at ensuring consistent functionality and appearance across different web browsers.<br>
+
 **Team Management:** Experienced in leading a team of authors and contributors, achieving editorial objectives efficiently.<br>
+
 **Content Creation & Editing:** Proven ability in crafting and curating engaging, informative content.<br>
 
 📈 *Professional Background:*<br>
