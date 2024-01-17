@@ -7,10 +7,15 @@ I am a Front-End Engineer with over 9 years of experience in UI development and 
 **🔍 My Expertise:**
 
 **Front-End Development:** Proficient in HTML, CSS, JavaScript, and frameworks like React and Angular.
+
 **Responsive Design:** Expert in crafting websites that adapt seamlessly across various devices.
+
 **UI/UX Strategy:** Skilled in developing content strategies that enhance user experience and engagement.
+
 **Cross-Browser Compatibility:** Adept at ensuring consistent functionality and appearance across different web browsers.
-**Team Management: **Experienced in leading a team of authors and contributors, achieving editorial objectives efficiently.
+
+**Team Management:** Experienced in leading a team of authors and contributors, achieving editorial objectives efficiently.
+
 **Content Creation & Editing:** Proven ability in crafting and curating engaging, informative content.
 
 **📈 Professional Background:**
