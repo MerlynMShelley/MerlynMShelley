@@ -1,7 +1,7 @@
 👋 Hi, I’m @MerlynMShelley ~ BI Engineer!
 
 **🌟 About Me:**
-With a foundational background in managing and curating Business Intelligence and Data Analysis content, I've evolved into solving complex data challenges and enhancing key business decisions. Boasting over six years in Business Intelligence and Data Analytics, my passion lies in transforming intricate data into actionable insights. Proficient in Python, SQL, PowerBI, and Tableau, I combine deep analytical skills with the ability to communicate complex data effectively. This unique blend enables me to drive a data-driven culture in organizations, offering reliable and strategic solutions for tangible business outcomes.
+With a solid foundation in managing and curating Business Intelligence and Data Analysis content, my career has evolved to tackle complex data challenges, enhancing critical business decisions. With over six years of experience in IT, including three years specializing in Business Intelligence and Data Analytics, I am deeply passionate about turning complex data into meaningful, actionable insights. Proficient in Python, SQL, PowerBI, and Tableau, I possess strong analytical skills coupled with the ability to effectively communicate complex data. This distinctive combination empowers me to foster a data-driven culture within organizations, providing reliable and strategic solutions that yield tangible business outcomes.
 
 **🔍 My Expertise:**
 - **Data Analysis & Visualization:** Skilled in making data speak through compelling visual stories.
