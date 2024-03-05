@@ -1,21 +1,22 @@
-👋 Hi, I’m @MerlynMShelley ~ BI Engineer!
+👋 Hi, I’m @MerlynMShelley ~ UI Engineer!
 
-**🌟 About Me:**
-With a solid foundation in managing and curating Business Intelligence and Data Analysis content, my career has evolved to tackle complex data challenges, enhancing critical business decisions. With over six years of experience in IT, including three years specializing in Business Intelligence and Data Analytics, I am deeply passionate about turning complex data into meaningful, actionable insights. Proficient in Python, SQL, PowerBI, and Tableau, I possess strong analytical skills coupled with the ability to effectively communicate complex data. This distinctive combination empowers me to foster a data-driven culture within organizations, providing reliable and strategic solutions that yield tangible business outcomes.
+**🌟 About Me**
+With a robust background in IT and a passion for creating seamless user experiences, my career has evolved to specialize in Frontend Engineering. Over six years in the tech industry, with a focus on developing interactive and user-friendly web applications, have honed my expertise in frontend frameworks and libraries. Proficient in JavaScript, React Js, HTML5, and CSS3, I am dedicated to crafting responsive and dynamic interfaces that enhance user engagement and satisfaction. My ability to translate design concepts into functional web components, coupled with a keen eye for detail, enables me to deliver high-quality and visually appealing digital solutions.
 
-**🔍 My Expertise:**
-- **Data Analysis & Visualization:** Skilled in making data speak through compelling visual stories.
-- **Predictive Analytics:** Proficient in using advanced analytics to anticipate future trends and business needs.
-- **Reporting & Dashboard Creation:** Adept at designing intuitive reports and dashboards for real-time decision-making.
-- **Cross-Functional Communication:** Effective in translating complex data insights for diverse teams, fostering a data-driven culture.
+**🔍 My Expertise**
+**Frontend Development:** Skilled in building responsive and interactive web applications using modern frontend frameworks like React Js.
+**UI/UX Design:** Proficient in creating intuitive and aesthetically pleasing user interfaces that prioritize user experience using **Figma**.
+**JavaScript Programming:** Expertise in JavaScript, along with its popular libraries and frameworks, to create dynamic and responsive web applications.
+**Web Performance Optimization:** Adept at optimizing web applications for speed and efficiency, ensuring a smooth and fast user experience.
+**Cross-Browser Compatibility:** Ensuring consistent functionality and appearance across various browsers and devices.
 
-**📈 Professional Background:**
-Having a foundation in product marketing and management, I bring a unique perspective to data analytics, understanding market trends and customer behavior intricately. My focus lies in utilizing data for strategic planning, business process optimization, and enhancing customer experiences.
+**📈 Professional Background**
+With a foundation in IT and a keen interest in user interface design, I have developed a deep understanding of how to bridge the gap between design and development. My experience in collaborating with cross-functional teams has enabled me to deliver projects that meet both aesthetic and functional requirements, driving user engagement and satisfaction.
 
-**💼 My Goal:**
-I am committed to leveraging my blend of technical skills and business insight to drive organizational success and innovation. I thrive in environments where data is at the forefront of decision-making, and I am always eager to collaborate on projects that challenge me to push the boundaries of what data can do.
+**💼 My Goal**
+I am committed to leveraging my technical skills and creative vision to develop frontend solutions that are not only visually appealing but also user-friendly and accessible. I thrive in environments that challenge my creativity and technical abilities and am always eager to collaborate on projects that push the boundaries of web development.
 
-🔗 Connect with me to explore how we can turn data into opportunities!
+**🔗 Connect with me to explore how we can create engaging and impactful digital web experiences!**
 
 Live Featured Articles >> 
 
