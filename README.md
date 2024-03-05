@@ -3,7 +3,7 @@
 **🌟 About Me**
 With a robust background in IT and a passion for creating seamless user experiences, my career has evolved to specialize in Frontend Engineering. Over six years in the tech industry, with a focus on developing interactive and user-friendly web applications, have honed my expertise in frontend frameworks and libraries. Proficient in JavaScript, React Js, HTML5, and CSS3, I am dedicated to crafting responsive and dynamic interfaces that enhance user engagement and satisfaction. My ability to translate design concepts into functional web components, coupled with a keen eye for detail, enables me to deliver high-quality and visually appealing digital solutions.
 
-**🔍 My Expertise**
+**🔍 My Expertise**<br>
 **Frontend Development:** Skilled in building responsive and interactive web applications using modern frontend frameworks like React Js.<br>
 **UI/UX Design:** Proficient in creating intuitive and aesthetically pleasing user interfaces that prioritize user experience using **Figma**.<br>
 **JavaScript Programming:** Expertise in JavaScript, along with its popular libraries and frameworks, to create dynamic and responsive web applications.<br>
