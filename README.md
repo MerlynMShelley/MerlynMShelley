@@ -1,24 +1,24 @@
-👋 Hi, I’m @MerlynMShelley ~ UI Engineer!
+👋 Hi, I’m @MerlynMShelley, a **Python Backend Developer!**
 
 **🌟 About Me**
-With a robust background in IT and a passion for creating seamless user experiences, my career has evolved to specialize in Frontend Engineering. Over six years in the tech industry, with a focus on developing interactive and user-friendly web applications, have honed my expertise in frontend frameworks and libraries. Proficient in JavaScript, React Js, HTML5, and CSS3, I am dedicated to crafting responsive and dynamic interfaces that enhance user engagement and satisfaction. My ability to translate design concepts into functional web components, coupled with a keen eye for detail, enables me to deliver high-quality and visually appealing digital solutions.
+With a strong foundation in IT and a passion for creating efficient and scalable backend systems, I have honed my skills as a Python Backend Developer over six years in the tech industry. My expertise lies in developing robust backend solutions that power dynamic web applications and APIs. I am dedicated to writing clean, maintainable code and ensuring the reliability and security of backend systems.
 
-**🔍 My Expertise**<br>
-**Frontend Development:** Skilled in building responsive and interactive web applications using modern frontend frameworks like React Js.<br>
-**UI/UX Design:** Proficient in creating intuitive and aesthetically pleasing user interfaces that prioritize user experience using **Figma**.<br>
-**JavaScript Programming:** Expertise in JavaScript, along with its popular libraries and frameworks, to create dynamic and responsive web applications.<br>
-**Web Performance Optimization:** Adept at optimizing web applications for speed and efficiency, ensuring a smooth and fast user experience.<br>
-**Cross-Browser Compatibility:** Ensuring consistent functionality and appearance across various browsers and devices.<br>
+**🔍 My Expertise**
+Backend Development: Skilled in building scalable and efficient backend systems using Python and popular frameworks like Django and Flask.
+Database Management: Proficient in designing and managing databases, including SQL and NoSQL databases like MySQL, PostgreSQL, and MongoDB.
+API Development: Experienced in developing RESTful APIs and integrating third-party services to enhance application functionality.
+Testing and Debugging: Adept at writing unit tests and debugging code to ensure the quality and reliability of backend systems.
+Security and Compliance: Knowledgeable about security best practices and compliance standards, ensuring that backend systems are secure and compliant with regulations.
 
 **📈 Professional Background**
-With a foundation in IT and a keen interest in user interface design, I have developed a deep understanding of how to bridge the gap between design and development. My experience in collaborating with cross-functional teams has enabled me to deliver projects that meet both aesthetic and functional requirements, driving user engagement and satisfaction.
+With a background in IT and a focus on backend development, I have worked on a variety of projects that have sharpened my skills in building scalable and reliable backend systems. My experience collaborating with cross-functional teams has equipped me with the ability to understand and meet the requirements of complex projects.
 
 **💼 My Goal**
-I am committed to leveraging my technical skills and creative vision to develop frontend solutions that are not only visually appealing but also user-friendly and accessible. I thrive in environments that challenge my creativity and technical abilities and am always eager to collaborate on projects that push the boundaries of web development.
+I am committed to leveraging my technical skills and experience to develop backend solutions that drive the success of web applications. I thrive in dynamic and challenging environments and am always looking for opportunities to learn and grow as a Python Backend Developer.
 
-**🔗 Connect with me to explore how we can create engaging and impactful digital web experiences!**
+🔗 Connect with me to discuss how I can contribute to your team and help build robust and efficient backend systems!
 
-Live Featured Articles >> 
+**Live Featured Articles >> **
 
 DZone https://dzone.com/users/4497573/merlyn-shelley.html
 
