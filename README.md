@@ -26,7 +26,7 @@ I am driven by the prospect of leveraging my technical skills and experience to 
 
 🔗 Let's connect and explore how I can contribute to your team's journey in leveraging Python for data analytics, data science, and data visualization endeavors!
 
-**Live Featured Articles >> **
+**Live Featured Articles >>**
 
 DZone https://dzone.com/users/4497573/merlyn-shelley.html
 
