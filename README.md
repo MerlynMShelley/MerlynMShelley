@@ -1,8 +1,8 @@
-👋 Hey there, I’m **@MerlynMShelley**, a Technical Writer passionate about leveraging data-driven insights to develop technical content modules that effectively solve real-world problems.
+👋 Hey there, I’m **@MerlynMShelley**, a Technical Writer *AKA* Technical Content Developer passionate about leveraging data-driven insights to develop technical content modules that effectively solve real-world problems.
 
 **🌟 About Me**
 
-I'm an experienced technical writer with over six years of experience in technical communication. I'm well-versed in Python, SQL, and various data tools. My forte lies in analyzing common problem scenarios and crafting clear, user-friendly documentation and content to help users tackle challenges effectively.
+I'm an experienced technical writer with over six years of experience in technical communication. I'm well-versed in Python, SQL, Technical SEO and various data tools. My forte lies in analyzing common problem scenarios and crafting clear, user-friendly documentation and content to help users tackle challenges effectively.
 
 **🔍 My Expertise**
 
