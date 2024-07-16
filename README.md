@@ -37,6 +37,7 @@ Packt DataPro - https://packtdatapro1.substack.com/ [102 Editions]
 Packt SecPro - https://security.packt.com/linux-security-hardening/ [Explain Post]
 
 Squadcast - https://www.squadcast.com/blog-authors/merlyn-shelley [7 Product Blogs]
+  Archived content - https://web.archive.org/web/20230927010454/https://www.squadcast.com/blog-authors/merlyn-shelley [9 Blogs]
 
 GeeksforGeeks - https://auth.geeksforgeeks.org/user/MerlynShelley/articles [39 Posts]
 
@@ -52,7 +53,7 @@ Qandle - https://blog.qandle.com/2020/08/06/the-ultimate-guide-to-conducting-eff
 
 Amazon Author Central - https://www.amazon.co.jp/-/en/Merlyn-Shelley/e/B084ZQPTK9?ref_=dbs_p_ebk_r00_abau_000000 [12 Ebooks]
 
-TechLeer https://www.techleer.com/users/Merlyn_Shelley/
+TechLeer - https://web.archive.org/web/20200529104524/https://www.techleer.com/users/Merlyn_Shelley/ [11 Articles]
 <!---
 MerlynMShelley/MerlynMShelley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
