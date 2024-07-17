@@ -34,10 +34,11 @@ Packt BIPro - https://packtbusinessintelligencepro.substack.com/ [65 Editions]
 
 Packt DataPro - https://packtdatapro1.substack.com/ [102 Editions]
 
-Packt SecPro - https://security.packt.com/linux-security-hardening/ [Explain Post]
+Packt SecPro - https://security.packt.com/linux-security-hardening/ [Explainer Post]
 
 Squadcast - https://www.squadcast.com/blog-authors/merlyn-shelley [7 Product Blogs]
-  Archived content - https://web.archive.org/web/20230927010454/https://www.squadcast.com/blog-authors/merlyn-shelley [9 Blogs]
+  
+Squadcast Archived Blogs - https://web.archive.org/web/20230927010454/https://www.squadcast.com/blog-authors/merlyn-shelley [9 Blogs]
 
 GeeksforGeeks - https://auth.geeksforgeeks.org/user/MerlynShelley/articles [39 Posts]
 
