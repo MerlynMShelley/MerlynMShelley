@@ -31,31 +31,31 @@ I'm enthusiastic about leveraging my technical writing skills and experience to 
 
 **Live Featured Articles >>**
 
-Packt BIPro - https://packtbusinessintelligencepro.substack.com/ [65 Editions]
+[Packt BIPro](https://packtbusinessintelligencepro.substack.com/) [65 Editions]
 
-Packt DataPro - https://packtdatapro1.substack.com/ [102 Editions]
+[Packt DataPro](https://packtdatapro1.substack.com/) [102 Editions]
 
-Packt SecPro - https://security.packt.com/linux-security-hardening/ [Explainer Post]
+[Packt SecPro](https://security.packt.com/linux-security-hardening/) [Explainer Post]
 
-Squadcast - https://www.squadcast.com/blog-authors/merlyn-shelley [7 Product Blogs]
+[Squadcast](https://www.squadcast.com/blog-authors/merlyn-shelley) [7 Product Blogs]
   
-Squadcast Archived Blogs - https://web.archive.org/web/20230927010454/https://www.squadcast.com/blog-authors/merlyn-shelley [9 Blogs]
+[Squadcast Archived Blogs](https://web.archive.org/web/20230927010454/https://www.squadcast.com/blog-authors/merlyn-shelley) [9 Blogs]
 
-GeeksforGeeks - https://auth.geeksforgeeks.org/user/MerlynShelley/articles [39 Posts]
+[GeeksforGeeks](https://auth.geeksforgeeks.org/user/MerlynShelley/articles) [39 Posts]
 
-DazeInfo - https://dazeinfo.com/author/merlynm/# [60 posts]
+[DazeInfo](https://dazeinfo.com/author/merlynm/#) [60 posts]
 
-DZone - https://dzone.com/users/4497573/merlyn-shelley.html [Explainer Post]
+[DZone](https://dzone.com/users/4497573/merlyn-shelley.html) [Explainer Post]
 
-Expersight - https://expersight.com/author/merlyn [2 Tool Comparison Listicles]
+[Expersight](https://expersight.com/author/merlyn) [2 Tool Comparison Listicles]
 
-GeeksGyan - https://www.geeksgyaan.com/author/merlyn [10 Blog Posts]
+[GeeksGyan](https://www.geeksgyaan.com/author/merlyn) [10 Blog Posts]
 
-Qandle - https://blog.qandle.com/2020/08/06/the-ultimate-guide-to-conducting-effective-one-on-one-meetings/ [Explainer Post]
+[Qandle](https://blog.qandle.com/2020/08/06/the-ultimate-guide-to-conducting-effective-one-on-one-meetings/) [Explainer Post]
 
-Amazon Author Central - https://www.amazon.co.jp/-/en/Merlyn-Shelley/e/B084ZQPTK9?ref_=dbs_p_ebk_r00_abau_000000 [12 Ebooks]
+[Amazon Author Central](https://www.amazon.co.jp/-/en/Merlyn-Shelley/e/B084ZQPTK9?ref_=dbs_p_ebk_r00_abau_000000) [12 Ebooks]
 
-TechLeer - https://web.archive.org/web/20200529104524/https://www.techleer.com/users/Merlyn_Shelley/ [11 Articles]
+[TechLeer](https://web.archive.org/web/20200529104524/https://www.techleer.com/users/Merlyn_Shelley/) [11 Articles]
 <!---
 MerlynMShelley/MerlynMShelley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
