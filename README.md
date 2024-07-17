@@ -6,7 +6,7 @@ I'm an experienced technical writer with over six years of experience in technic
 
 **🔍 My Expertise**
 
-**Technical Proficiency:** Mastery of essential tools such as Microsoft Word, SwaggerAPI for API documentation, and Markdown for writing and formatting technical documents enables me to produce clear and effective content tailored to diverse technical needs.
+**Technical Proficiency:** Mastery of essential tools such as MS Office 365, SwaggerAPI, Markdown, multi-model GPTs, Doc as Code, and coding technologies like Python, SQL, JSON, HTML, and CSS for writing and formatting technical documents enables me to produce clear and effective content tailored to diverse technical needs.
 
 **Version Control Systems:** Familiarity with Git or SVN for managing document versions and collaboration.
 
