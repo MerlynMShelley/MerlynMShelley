@@ -28,7 +28,7 @@ I'm enthusiastic about leveraging my technical writing skills and experience to 
 
 🔗 Let's connect and discuss how I can contribute to your team's efforts in technical documentation and product content development!
 
-**Live Featured Articles >>**
+***Live Featured Web Publications >>***
 
 [Packt BIPro](https://packtbusinessintelligencepro.substack.com/) [65 Editions]
 
