@@ -1,4 +1,4 @@
-👋 Hey there, I’m **@MerlynMShelley**, a Technical Writer *AKA* Technical Content Developer passionate about leveraging data-driven insights to develop technical content modules that effectively solve real-world problems.
+👋 Hey there, I’m **@MerlynMShelley**, a Technical Writer *AKA* Technical Content Developer who thrives on using data-driven insights to craft effective content modules tackling real-world software engineering issues. My goal is to create content that's not just informative but also practical, helping developers solve complex problems with clarity. I'm constantly honing my skills in data analytics and software development to deliver content that's both insightful and actionable.
 
 **🌟 About Me**
 
