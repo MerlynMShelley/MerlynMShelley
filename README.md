@@ -2,7 +2,7 @@
 
 **🌟 About Me**
 
-I'm an experienced technical writer with over six years of experience in technical communication. I'm well-versed in Python, SQL, Technical SEO and various data tools. My forte lies in analyzing common problem scenarios and crafting clear, user-friendly documentation and content to help users tackle challenges effectively.
+I'm an experienced technical writer with over seven years of experience in technical communication. I'm well-versed in Python, SQL, Technical SEO and various data tools. My forte lies in analyzing common problem scenarios and crafting clear, user-friendly documentation and content to help users tackle challenges effectively.
 
 **🔍 My Expertise**
 
