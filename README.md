@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 👋 Hey there, I’m **@MerlynMShelley**, a Technical Writer *AKA* Technical Content Developer passionate about leveraging data-driven insights to develop technical content modules that effectively solve real-world problems.
 
 **🌟 About Me**
