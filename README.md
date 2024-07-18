@@ -16,7 +16,7 @@ I'm an experienced technical writer with over seven years of experience in techn
 
 **API Documentation:** Ability to write clear and concise documentation for APIs using tools like Swagger or Postman.
 
-**User Experience (UX) Writing:** Experienced in writing user-centric documentation that focuses on clarity, accessibility, and usability.Skilled in writing product content that is user-friendly and includes the logical aspects of human-computer interaction. Also, a member of the Interaction Design Foundation since 2020. Here’s my membership ID:
+**User Experience (UX) Writing:** Experienced in writing user-centric documentation that focuses on clarity, accessibility, and usability. Skilled in writing in-product content for dialog boxes that are simple, user-friendly and includes the logical aspects of human-computer interaction. Also, a member of the Interaction Design Foundation since 2020. Here’s my membership ID:
 
 [Interaction Design Foundation Membership Certificate](https://www.interaction-design.org/members/merlyn-m-shelley/certificate/membership/mc_qxsdhtmxz)
 
