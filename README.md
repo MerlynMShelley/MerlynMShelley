@@ -57,6 +57,7 @@ I'm enthusiastic about leveraging my technical writing skills and experience to 
 [Amazon Author Central](https://www.amazon.co.jp/-/en/Merlyn-Shelley/e/B084ZQPTK9?ref_=dbs_p_ebk_r00_abau_000000) [12 Ebooks]
 
 [TechLeer](https://web.archive.org/web/20200529104524/https://www.techleer.com/users/Merlyn_Shelley/) [11 Articles]
+
 <!---
 MerlynMShelley/MerlynMShelley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
