@@ -6,7 +6,7 @@ I manage two vibrant data newsletters that reach **170,000** subscribers with a 
 
 **🔍 My Expertise**
 
-➤➤ **Technical Proficiency:** Mastery of essential tools such as MS Office 365, SwaggerAPI, Markdown, multi-model GPTs, Doc as Code, and coding technologies like Python, SQL, JSON, HTML, and CSS for writing and formatting technical documents enables me to produce clear and effective content tailored to diverse technical needs.
+➤➤ **Technical Proficiency:** Mastery of essential tools such as MS Office 365, SwaggerAPI, Markdown, multi-model GPTs, Doc as Code, DocOps and coding technologies like Python, SQL, JSON, HTML, and CSS for writing and formatting technical documents enables me to produce clear and effective content tailored to diverse technical needs.
 
 ➤➤ **Version Control Systems:** Familiarity with Git or SVN for managing document versions and collaboration.
 
