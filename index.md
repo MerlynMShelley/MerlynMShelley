@@ -91,7 +91,7 @@ I'm enthusiastic about leveraging my skills and experience as a Product Content 
 
 🏅 [Excel: Power Pivot for Beginners](https://www.linkedin.com/learning/certificates/d7fd684490b9e123012693caeb4a4e1bec242ef43f4b2843714aaac4908420bc?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCXqBZcZVRDuhQdmJMR8vPA%3D%3D)
 
-**Job Simulation/ Virtual Internships:**
+**Job Simulations / Virtual Internships:**
 
 💼 [JPMorgan Chase & Co. - Agile Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/5QiaMtZ4k8ngYKn4D_JPMorgan%20Chase%20&%20Co._M6Cw4urfBkLNW3Tw6_1721802623800_completion_certificate.pdf)
 
