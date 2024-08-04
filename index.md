@@ -113,8 +113,8 @@ I'm enthusiastic about leveraging my skills and experience as a **Learning Solut
 
 **Education**
 
-🎓 Bachelor of Engineering (B.E).,(Full-time) 2008-2012. 
-Jayaram College of Engineering and Technology, Trichy, Anna University Chennai.
+🎓 **Bachelor of Engineering (B.E).,(Full-time) 2008-2012. **
+_Jayaram College of Engineering and Technology, Trichy, Anna University Chennai._
 _Majored in Electronics and Communication Engineering (ECE) and secured 8.41 CGPA With First Class._
 
 Member of Technical Societies - IEEE Member(2008-2013) IETE Member(2008-2013) IDF Member(2020-2021)
