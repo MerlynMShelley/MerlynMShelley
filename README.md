@@ -2,7 +2,7 @@
 
 **👩🏻‍💻 About Me**
 
-As a passionate Technical Content Strategist in the IT e-learning domain, I’ve had the pleasure of publishing over **150** SEO-optimized articles, **160** weekly newsletters, and **12** eBooks on KDP. Engaging with a **200k** tech audience, I’ve achieved a **50% **open rate and **1.5%** CTR. My skills with Adobe Captivate, Framemaker, Robohelp, and Articulate Storyline 360, along with my membership in the Interaction Design Foundation, highlight my dedication to technical communication, UX writing, research, and usability testing.
+As a passionate Technical Content Strategist in the IT e-learning domain, I’ve had the pleasure of publishing over **150** SEO-optimized articles, **160** weekly newsletters, and **12** eBooks on KDP. Engaging with a **200k** tech audience, I’ve achieved a **50%** open rate and **1.5%** CTR. My skills with Adobe Captivate, Framemaker, Robohelp, and Articulate Storyline 360, along with my membership in the Interaction Design Foundation, highlight my dedication to technical communication, UX writing, research, and usability testing.
 
 I love using data-driven insights to craft content that solves real-world software engineering challenges. My aim is to create content that’s not only informative but also practical and truly helpful to the audience. With strong skills in Python, SQL, Technical SEO, and various data tools, I excel at turning complex problems into user-friendly digital content and documentation.
 
