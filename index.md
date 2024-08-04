@@ -1,12 +1,20 @@
-👋 Hey there, I’m **@MerlynMShelley**, a seasoned Technical Content Strategist *AKA* Product Content Developer who thrives on using data-driven insights to craft effective content modules tackling real-world software engineering issues. My goal is to create content that is not only informative but also practical, helping both technical and non-technical audiences solve complex problems with clarity. I am proficient in Python, SQL, Technical SEO, and various data tools. My strength lies in analyzing common problem scenarios and crafting clear, user-friendly digital content products and documentation to help the target audience tackle challenges effectively. I am constantly honing my skills in content design and analytics to deliver materials that are both insightful and actionable.
+👋 Hey there, I’m **@MerlynMShelley**
 
-As a dedicated content strategist with over seven years of experience, I excel in blending technical communication with digital content creation to drive meaningful engagement. My portfolio includes over **150** meticulously crafted tech articles, **165** data-centric newsletters, and **12** eBooks, all designed for clarity and accessibility. My key strengths include content design, in-product content, UX research, and strategic planning.
+**👩🏻‍💻 About Me**
 
-I manage two vibrant data newsletters that reach **170,000** subscribers with a consistent **50%** open rate and **1.5%** click-through rate. By leveraging Agile methodologies, market insights, and competitive intelligence, I drive growth for tech organizations, crafting impactful and engaging content that resonates with the target audience.
+As a passionate Technical Content Strategist in the IT e-learning domain, I’ve had the pleasure of publishing over **150** SEO-optimized articles, **160** weekly newsletters, and **12** eBooks on KDP. Engaging with a **200k** tech audience, I’ve achieved a **50% **open rate and **1.5%** CTR. My skills with Adobe Captivate, Framemaker, Robohelp, and Articulate Storyline 360, along with my membership in the Interaction Design Foundation, highlight my dedication to technical communication, UX writing, research, and usability testing.
+
+I love using data-driven insights to craft content that solves real-world software engineering challenges. My aim is to create content that’s not only informative but also practical and truly helpful to the audience. With strong skills in Python, SQL, Technical SEO, and various data tools, I excel at turning complex problems into user-friendly digital content and documentation.
+
+Over the past seven years, I’ve combined technical communication with digital content creation to build meaningful engagement. By using Agile methodologies, market insights, and competitive intelligence, I help tech organizations grow with content that resonates. My commitment to content design and analytics ensures I deliver materials that are insightful and actionable.
+
+I’ve also had the exciting opportunity to drive mobile engagement and increase attribution touchpoints, boosting user interaction across platforms. Additionally, I’ve developed sponsorship revenue close to **GBP 50,000** through newsletters, showing my knack for monetizing content effectively. These experiences have strengthened my ability to enhance corporate learning solutions, boost engagement, and drive business success.
 
 **🔍 My Expertise**
 
 ➤➤ **Technical Proficiency:** Mastery of essential tools such as MS Office 365, SwaggerAPI, Markdown, multi-model GPTs, Doc as Code, DocOps and coding technologies like Python, SQL, JSON, HTML, and CSS for writing and formatting technical documents enables me to produce clear and effective content tailored to diverse technical needs.
+
+➤➤ **Instructional Design:** Mastered ID frameworks like ADDIE and SAM to develop e-learning and m-learning modules that engage learners and help them comprehend complex topics.
 
 ➤➤ **Version Control Systems:** Familiarity with Git or SVN for managing document versions and collaboration.
 
@@ -27,11 +35,11 @@ I manage two vibrant data newsletters that reach **170,000** subscribers with a 
 
 **📈 Professional Background**
 
-Throughout my IT journey, my strong focus on technical and UX writing has equipped me to handle a diverse range of projects. I have honed my skills in creating clear and effective content modules and documentation tailored for various technical contexts, including API documentation, user manuals, and software guides. Collaborating with cross-functional teams has provided me with valuable insights into different perspectives, enabling me to effectively meet the unique requirements of complex product content projects.
+Throughout my IT journey, my strong focus on technical communication and e-learning content development has equipped me to handle a diverse range of projects. I have honed my skills in creating clear and effective content modules and documentation tailored for various technical contexts, including API documentation, user manuals, and software guides. Collaborating with cross-functional teams has provided me with valuable insights into different perspectives, enabling me to meet the unique requirements of complex product content projects effectively.
 
 **💼 My Goal**
 
-I'm enthusiastic about leveraging my skills and experience as a Product Content Strategist to produce clear and effective content materials across a wide spectrum of fields, including software development, cloud networking, cybersecurity, and site reliability engineering. My goal is to drive growth and contribute to organizational success by creating content that fosters project excellence and innovation. By providing stakeholders and end-users with the necessary guidance and insights, I aim to enhance understanding, facilitate smoother implementations, and support the overall strategic objectives of the organization.
+I'm enthusiastic about leveraging my skills and experience as a **Learning Solutions Developer** to produce clear and effective content across a wide spectrum of fields, including software development, cloud networking, cybersecurity, and site reliability engineering. My goal is to drive growth and contribute to organizational success by creating content that fosters project excellence and innovation. By providing stakeholders and end-users with the necessary guidance and insights, I aim to enhance understanding, facilitate smoother implementations, and support the overall strategic objectives of the organization.
 
 💬 Let's connect and discuss how I can contribute to your team's efforts in technical documentation and product content development!
 
