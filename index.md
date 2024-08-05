@@ -1,6 +1,6 @@
 👋 Hey there, I’m **@MerlynMShelley**
 
-**👩🏻‍💻 About Me**
+## **👩🏻‍💻 About Me**
 
 As a passionate Technical Content Strategist in the IT e-learning domain, I’ve had the pleasure of publishing over **150** SEO-optimized articles, **160** weekly newsletters, and **12** eBooks on KDP. Engaging with a **200k** tech audience, I’ve achieved a **50%** open rate and **1.5%** CTR. My skills with Adobe Captivate, Framemaker, Robohelp, and Articulate Storyline 360, along with my membership in the Interaction Design Foundation, highlight my dedication to technical communication, UX writing, research, and usability testing.
 
@@ -10,7 +10,7 @@ Over the past seven years, I’ve combined technical communication with digital 
 
 I’ve also had the exciting opportunity to drive mobile engagement and increase attribution touchpoints, boosting user interaction across platforms. Additionally, I’ve developed sponsorship revenue close to **GBP 50,000** through newsletters, showing my knack for monetizing content effectively. These experiences have strengthened my ability to enhance corporate learning solutions, boost engagement, and drive business success.
 
-**🔍 My Expertise**
+## **🔍 My Expertise**
 
 ➤➤ **Technical Proficiency:** Mastery of essential tools such as MS Office 365, SwaggerAPI, Markdown, multi-model GPTs, Doc as Code, DocOps and coding technologies like Python, SQL, JSON, HTML, and CSS for writing and formatting technical documents enables me to produce clear and effective content tailored to diverse technical needs.
 
@@ -33,17 +33,60 @@ I’ve also had the exciting opportunity to drive mobile engagement and increase
 
 ➤➤ **Email Marketing:** Designing and executing engaging email campaigns to enhance customer engagement and retention.
 
-**📈 Professional Background**
+
+## **Tools I Am Familiar With for Technical Writing**
+
+- **Text and Documentation:**
+  - GitHub Flavored Markdown
+  - reStructuredText
+  - Sphinx
+  - Read The Docs
+  - MkDocs
+  - Jekyll for themes
+
+- **Pictorial Representations:**
+  - Google Drawings
+  - MS Paint
+  - draw.io
+
+- **Design and Communication:**
+  - Adobe Creative Cloud for Technical Communication and Instructional Design
+  - Canva for feature images in WordPress CMS
+
+- **Search Engine Optimization:**
+  - Experienced with Elementor
+  - Yoast SEO plugins for higher Google SERPs
+
+- **Editing and Proofreading:**
+  - Grammarly Premium for voice, tone, punctuation, and grammar checks
+  - Copyscape for checking the uniqueness of the content
+  - ChatGPT 4o, Claude, Gemini, Llama 3.0
+
+- **Documentation and Coding:**
+  - Google Docs, MS O365
+  - Sublime Text Editor, VS Code, Streamlit
+
+- **Style and Standards:**
+  - Following the Microsoft Manual of Style in project documentation
+
+- **Screenshot Capturing:**
+  - Snagit
+  - MS Paint 3D
+
+
+## **📈 Professional Background**
 
 Throughout my IT journey, my strong focus on technical communication and e-learning content development has equipped me to handle a diverse range of projects. I have honed my skills in creating clear and effective content modules and documentation tailored for various technical contexts, including API documentation, user manuals, and software guides. Collaborating with cross-functional teams has provided me with valuable insights into different perspectives, enabling me to meet the unique requirements of complex product content projects effectively.
 
-**💼 My Goal**
+## **💼 My Goal**
 
 I'm enthusiastic about leveraging my skills and experience as a **Learning Solutions Developer** to produce clear and effective content across a wide spectrum of fields, including software development, cloud networking, cybersecurity, and site reliability engineering. My goal is to drive growth and contribute to organizational success by creating content that fosters project excellence and innovation. By providing stakeholders and end-users with the necessary guidance and insights, I aim to enhance understanding, facilitate smoother implementations, and support the overall strategic objectives of the organization.
 
 💬 Let's connect and discuss how I can contribute to your team's efforts in technical documentation and product content development!
 
-***Live Featured Web Publications >>***
+## **Live Featured Web Publications**
+
+Here are some of my live featured web publications for your review and consideration:
 
 🔗 [Packt BIPro](https://packtbusinessintelligencepro.substack.com/) [65 Editions]
 
@@ -71,7 +114,7 @@ I'm enthusiastic about leveraging my skills and experience as a **Learning Solut
 
 🔗 [TechLeer](https://web.archive.org/web/20200529104524/https://www.techleer.com/users/Merlyn_Shelley/) [11 Articles]
 
-**Industry Certifications:**
+## **Industry Certifications**
 
 🏅 [Google Gen AI Certified](https://www.cloudskillsboost.google/public_profiles/2f5172bf-288d-4d62-a8ec-a5d7b424947e/badges/3980005?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 
@@ -99,7 +142,7 @@ I'm enthusiastic about leveraging my skills and experience as a **Learning Solut
 
 🏅 [Excel: Power Pivot for Beginners](https://www.linkedin.com/learning/certificates/d7fd684490b9e123012693caeb4a4e1bec242ef43f4b2843714aaac4908420bc?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BCXqBZcZVRDuhQdmJMR8vPA%3D%3D)
 
-**Job Simulations / Virtual Internships:**
+## **Job Simulations / Virtual Internships:**
 
 💼 [JPMorgan Chase & Co. - Agile Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/5QiaMtZ4k8ngYKn4D_JPMorgan%20Chase%20&%20Co._M6Cw4urfBkLNW3Tw6_1721802623800_completion_certificate.pdf)
 
@@ -111,7 +154,7 @@ I'm enthusiastic about leveraging my skills and experience as a **Learning Solut
 
 💼 [Credly Data Analytics Badge Portfolio](https://www.credly.com/users/merlyn-m)
 
-**Education**
+## **Education**
 
 🎓 **Bachelor of Engineering (B.E).,(Full-time) 2008-2012.**
 _Jayaram College of Engineering and Technology, Trichy, Anna University Chennai._
