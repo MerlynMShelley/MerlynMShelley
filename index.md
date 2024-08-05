@@ -80,7 +80,7 @@ Throughout my IT journey, my strong focus on technical communication and e-learn
 
 ## **💼 My Goal**
 
-I'm enthusiastic about leveraging my skills and experience as a **Learning Solutions Developer** to produce clear and effective content across a wide spectrum of fields, including software development, cloud networking, cybersecurity, and site reliability engineering. My goal is to drive growth and contribute to organizational success by creating content that fosters project excellence and innovation. By providing stakeholders and end-users with the necessary guidance and insights, I aim to enhance understanding, facilitate smoother implementations, and support the overall strategic objectives of the organization.
+I'm enthusiastic about leveraging my skills and experience as an **Information Developer & Learning Solutions Developer** to produce clear and effective content across a wide spectrum of fields, including software development, cloud networking, cybersecurity, and site reliability engineering. My goal is to drive growth and contribute to organizational success by creating content that fosters project excellence and innovation. By providing stakeholders and end-users with the necessary guidance and insights, I aim to enhance understanding, facilitate smoother implementations, and support the overall strategic objectives of the organization.
 
 💬 Let's connect and discuss how I can contribute to your team's efforts in technical documentation and product content development!
 
