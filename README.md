@@ -30,8 +30,10 @@ I am skilled in using data analytics to drive marketing decisions, ensuring alig
 
 - **Digital Marketing Platforms:**
   - Google Analytics
+  - Google Ad Network Exchange
   - HubSpot
-  - Salesforce
+  - Salesforce Marketing Cloud
+  - Amazon Cloud Marketing
 
 - **SEO and SEM Tools:**
   - SEMrush
@@ -40,8 +42,8 @@ I am skilled in using data analytics to drive marketing decisions, ensuring alig
 
 - **Content Management Systems:**
   - WordPress
-  - Drupal
-  - Joomla
+  - Sharepoint
+  - Microsoft Power Platform
 
 - **Email Marketing Tools:**
   - Mailchimp
@@ -52,12 +54,14 @@ I am skilled in using data analytics to drive marketing decisions, ensuring alig
 - **Social Media Management:**
   - Hootsuite
   - Buffer
-  - Sprout Social
+  - Quora
+  - Linkedin
 
 - **Project Management Tools:**
   - Asana
   - Trello
   - JIRA
+  - Basecamp
     
 - **Data Analytics & Marketing Science**
   - Excel/Spreadsheet
